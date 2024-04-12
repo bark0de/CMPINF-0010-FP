@@ -1,7 +1,7 @@
 # CMPINF-0010-FP
 
 We are group 7 on canvas, Team Sludge Hammer
-Isaiah Henck [ish59@pitt.edu] and Tom Neill-DeMarco[tjd83@pitt.edu]
+Isaiah Henck [ish59@pitt.edu] and Tom DeMarco[tjd83@pitt.edu]
 
 We have sought out to find the best neighborhoods in Pittsburgh using different datasets from the Western Pennsylvainia Regional Database. We have used data related to poverty, arrests, and resturant inspection violations. We have combined all of these datasets to create the metric "liveability", which will be scaled from 0-100 and will be used to grade all of the communities of Pittsburgh.
 
