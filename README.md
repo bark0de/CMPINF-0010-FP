@@ -14,7 +14,7 @@ Dataset consisting of arrest informations pertaining to anonymous individuals ar
 
 Dataset 2: [Poverty Rates](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/7996d143-c155-466e-8414-115f74997dd7)
 
-Poverty.csv contains estimates of how many households within each neighborhood are below the poverty level. First, we looked at the total number of households in each neighborhood that were in poverty. The logic being that a neighborhood with a large amount of households in poverty might not be the best place to live. This is not a good measure however, as the number of households in poverty is relative to the number of people in the community. This led us to use the poverty rate as our metric for ranking pittsburgh communities by poverty level. By using poverty rate, we are able to objectively analyze how impoverished a community is by their proportion of households in poverty divided by the total number of households within the community.
+This dataset contains estimates of how many households within each neighborhood are below the poverty level.
 
 Dataset 3: [Food Facility/Restaurant Inspection Violations](https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/1a1329e2-418c-4bd3-af2c-cc334e7559af)
 
