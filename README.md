@@ -1,7 +1,7 @@
 # CMPINF-0200-FP
 
 We are group 7 on canvas, Team Sludge Hammer
-Isaiah Henck [ish59@pitt.edu] and Tom Neill-DeMarco[tjd83]
+Isaiah Henck [ish59@pitt.edu] and Tom Neill-DeMarco[tjd83@pitt.edu]
 
 We have sought out to find the best neighborhoods in Pittsburgh using different datasets from the Western Pennsylvainia Regional Database. We have used Poverty.csv, (Dataset 2), and (Dataset 3). We have combined all these datasets to create the metric (insert metric), which will be scaled from 0-100 and will be used to grade all of the communities of Pittsburgh.
 
