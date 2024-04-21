@@ -1,9 +1,9 @@
 # CMPINF-0010-FP
 
-We are group 7 on canvas, Team Sludge Hammer
+We are Group 7 on Canvas, Team Sludge Hammer<br>
 Isaiah Henck [ish59@pitt.edu] and Tom DeMarco[tjd83@pitt.edu]
 
-We have sought out to find the best neighborhoods in Pittsburgh using different datasets from the Western Pennsylvainia Regional Database. We have used data related to poverty, arrests, and resturant inspection violations. We have combined all of these datasets to create the metric "liveability", which is ranked by adding each individual neighborhood's rank in all 3 datasets together.
+We have sought out to find the best neighborhoods in Pittsburgh using different datasets from the Western Pennsylvania Regional Database. We have used data related to poverty, arrests, and resturant inspection violations. We have combined all of these datasets to create the metric "liveability", which is ranked by adding each individual neighborhood's rank in all 3 datasets together.
 
 ## Which Pittsburgh neighborhood is the most liveable?
 Our project looks to answer that by analyzing datasets that yield information related to aspects of living.
@@ -26,5 +26,5 @@ Geospatial representation of the neighborhoods we want to analyze.
 
 Conclusion:
 
-We combined these datasets to produce one final ranking for each neighborhood in Pittsburgh under isiahh.ipynb
+We combined these datasets to produce one final ranking for each neighborhood in Pittsburgh under isaiah.ipynb
 
