@@ -26,4 +26,4 @@ Geospatial representation of the neighborhoods we want to analyze.
 
 Conclusion:
 
-??
+We combined these datasets to produce one final ranking for each neighborhood in Pittsburgh under
