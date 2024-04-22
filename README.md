@@ -24,7 +24,7 @@ Dataset 4: [Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2)
 
 Geospatial representation of the neighborhoods we want to analyze.
 
-Conclusion:
-
-We combined these datasets to produce one final ranking for each neighborhood in Pittsburgh under isaiah.ipynb
+## Our Conclusion:
+# St. Clair is the most livable neighborhood in Pittsburgh!
+![image](Capture.JPG)
 
